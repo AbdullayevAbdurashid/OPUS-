@@ -1,0 +1,35 @@
+.hovered-styled-row .MuiButtonBase-root.MuiIconButton-root.MuiIconButton-colorInherit {
+    border-radius: 100% !important;
+}
+
+.MuiTableRow-root.MuiTableRow-head > .MuiTableCell-root.MuiTableCell-head {
+    background-color: #009D77;
+    color: #eee;
+}
+
+.hovered-styled-row .MTableHeader-header-50 {
+    background-color: #009D77;
+    color: #eee;
+}
+
+.hovered-styled-row .MuiTableCell-root.MuiTableCell-head.MTableHeader-header-25:hover {
+    color: #eee;
+}
+
+.hovered-styled-row .MuiTableSortLabel-root:hover {
+    color: white !important;
+}
+
+.hovered-styled-row .MuiTableSortLabel-root {
+    color: white !important;
+    padding-left: 10px;
+    font-size: 1.2rem;
+}
+
+.hovered-styled-row .MuiTableSortLabel-active:hover {
+    color: white !important
+}
+
+.hovered-styled-row .MuiTableSortLabel-active {
+    color: white !important
+}
